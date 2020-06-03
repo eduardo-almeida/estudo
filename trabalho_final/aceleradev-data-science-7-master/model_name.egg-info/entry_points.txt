@@ -1,3 +1,0 @@
-[console_scripts]
-model_name = model_name.main:cli
-

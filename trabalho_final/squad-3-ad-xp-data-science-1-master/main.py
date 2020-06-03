@@ -1,2 +1,0 @@
-def loadsmart():
-    raise NotImplementedError() 
