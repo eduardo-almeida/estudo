@@ -1,0 +1,11 @@
+README.md
+setup.py
+model_name/__init__.py
+model_name/config.py
+model_name/main.py
+model_name.egg-info/PKG-INFO
+model_name.egg-info/SOURCES.txt
+model_name.egg-info/dependency_links.txt
+model_name.egg-info/entry_points.txt
+model_name.egg-info/requires.txt
+model_name.egg-info/top_level.txt

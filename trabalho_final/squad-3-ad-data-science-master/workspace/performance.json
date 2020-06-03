@@ -1,0 +1,32 @@
+{
+    "estaticos_portfolio1": {
+        "last_update": "2019-08-24 18:07:45.265707",
+        "from_file": "/app/workspace/data/estaticos_portfolio1.csv",
+        "test_size": 0.3,
+        "scores": {
+            "apk@1000": 0.0,
+            "apk@5000": 5.099655169677517e-06,
+            "apk@10000": 7.975286969947634e-06
+        }
+    },
+    "estaticos_portfolio2": {
+        "last_update": "2019-08-24 18:07:52.049873",
+        "from_file": "/app/workspace/data/estaticos_portfolio2.csv",
+        "test_size": 0.3,
+        "scores": {
+            "apk@1000": 0.10197477518997144,
+            "apk@5000": 0.1279939028311022,
+            "apk@10000": 0.12891583446822488
+        }
+    },
+    "estaticos_portfolio3": {
+        "last_update": "2019-08-24 18:07:55.781388",
+        "from_file": "/app/workspace/data/estaticos_portfolio3.csv",
+        "test_size": 0.3,
+        "scores": {
+            "apk@1000": 0.17477142500743398,
+            "apk@5000": 0.17686172353021742,
+            "apk@10000": 0.17686172353021742
+        }
+    }
+}

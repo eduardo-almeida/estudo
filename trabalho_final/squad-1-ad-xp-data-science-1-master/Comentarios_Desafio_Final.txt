@@ -1,0 +1,38 @@
+# Projeto Final - Codenation Data Science - JOINVILLE
+
+# SQUAD 1 - Objetivo
+
+O objetivo deste produto é fornecer um serviço automatizado que recomenda leads para um usuário dado sua atual lista de clientes (Portfólio).
+
+# Contextualização
+Algumas empresas gostariam de saber quem são as demais empresas em um determinado mercado (população) que tem maior probabilidade se tornarem seus próximos clientes. Ou seja, a solução deve encontrar no mercado quem são os leads mais aderentes dado as características dos clientes presentes no portfólio do usuário.
+
+Além disso, a solução deve ser agnóstica ao usuário. Qualquer usuário com uma lista de clientes que queira explorar esse mercado pode extrair valor do serviço.
+
+Para o desafio, deverão ser consideradas as seguintes bases:
+
+Mercado: Base com informações sobre as empresas do Mercado a ser considerado. Portfolio 1: Ids dos clientes da empresa 1 Portfolio 2: Ids dos clientes da empresa 2 Portfolio 3: Ids dos clientes da empresa 3
+
+Obs: todas as empresas(ids) dos portfolios estão contidos no Mercado(base de população).
+
+As bases de portfólio poderão ser utilizadas para testar a aderência da solução. Além disso, se a equipe desejar, poderá simular portfólios por meio de amostragens no mercado.
+
+Premissas - Feature engineering:
+
+1. Não serão considerados os dados de "coligados"
+2. Não serão considerado o relacionamento entre filial/matriz, cada cliente será avaliado individualmente
+3. O Valor do faturamento das empresas que não tinham valor foi carregado com o valor da media do setor
+
+Algoritmo
+
+Cenário 1:
+	Utlizaremos o modelo de Random Forest para treinar os clientes do portfolio e criar um modelo para então aplicar 	aos clientes do mercado que não são do portfolio atual.
+
+	Para validar o modelo será utilizado Cross-validation utilizando uma taxa de 20% a cada treino e teste do modelo 	dentro do próprio portfolio.
+
+Cenário 2:
+	Utilizaremos o K-MEANS para treinar o mercado e dividir em 10 grupos.
+
+	Após isso utilizar o portfolio para verificar o percentual do portfolio dentro de cada grupo.
+
+	Depois disso, sugerir os clientes que estão no grupo com maior percentual e que não são do portfolio atual.
