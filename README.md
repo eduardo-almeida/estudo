@@ -14,7 +14,8 @@ Atuar como Cientista de Dados exercendo tarefas de coleta de dados estruturados 
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/eduardo-almeida-814a676a/)
-
+https://github.com/WendelMarques/materiais-de-estudos-sobre-data-science-deep-machine-learning/blob/master/guia-de-estudos-ia.md#mat_ml
+https://github.com/italojs/awesome-machine-learning-portugues
 
 ## Projetos:
 
