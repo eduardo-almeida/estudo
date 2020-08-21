@@ -1,0 +1,23 @@
+Olá!
+
+Preciso desenvolver um Web Crawler para buscar e criar um banco de dados com preço, localização, características de imóveis, data da busca e link do imóvel.
+
+O ideal é que esse crawler possa ser executado com um critério de região (p.ex. Pinheiros, São Paulo). Mas isso isso não é mandatório
+
+A idéia é montar uma tabela:
+- Preço de venda
+- Área (m²):
+- Quartos:
+- Banheiros:
+- Suítes:
+- Vagas de garagem:
+- Ano de construção:
+- Casa ou Apartamento
+- Localização
+- Condomínio:
+- IPTU:
+
+A idéia é capturar essas informações dos principais sites:
+Imoveisweb;
+Vivareal;
+Zap; 

@@ -1,0 +1,9 @@
+- Projeto utilizara integrações de meios de pagamento
+- Desenvolvimento em servidor para criação de login e multi contas.
+- Opções de cadastro de cliente, produtos, insumos, fornecedores, pedidos, financeiro com lançamento de contas, e receitas. Dashboard interativo com status de pedidos, saldo financeiro.
+- Valor Fechado pelo projeto.
+- Experiencia em projeto multi-language e multi-clientes
+
+SOMENTE para Desenvolvedor que tenha disponibilidade e produtividade.
+
+Vou abrir o projeto baseado na experiencia, projetos e disponibilidade de inicio imediato.

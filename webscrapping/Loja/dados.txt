@@ -1,0 +1,29 @@
+Projeto Python Utilizando o Scrapy
+
+Habilidades necessárias: Python, Html, MongoDB
+
+Script rodará diáriamente 1 vez por dia, com o objetivo de identificar novos produtos, se algum produto está indisponível ou se algum produto voltou a disponibilidade.
+
+Rotina:
+
+Acessar um site de um fornecedor
+
+Acessar todas as categorias de produtos
+Pegar os links de todos os produtos disponiveis recursivamente em todas as paginas da paginação
+Se o produto ja foi capturado somente atualizar o valor e disponibilidade, se não existir no banco de dados inserir todos os dados do novo produto
+
+Acessar todas as páginas dos produtos capturados e pegar os dados necessários
+Url, Titulo, Valor, Imagens, Descição, Atributos(SKU, Peso, Altura, Largura, Comprimento, Certificado) Disponibilidade
+Verifica se esse produto (item) já foi capturado
+
+Se ja foi capturado verifica se: está ainda disponível, a data da ultima verificação, e o valor
+
+Atualiza a data da ultima verificação se for um dia mais atual que a ultima verificação
+
+Se estiver disponível verifica/atualiza o valor
+
+Se estiver indisponível marca como indisponivel OU Se estava indiponivel e agora estiver disponível marca como disponivel
+
+Se não foi capturado ainda insere no banco de dados
+
+Salvar esses valores no banco de dados MongoDB sem duplicidade de produtos utilizar a URL como base

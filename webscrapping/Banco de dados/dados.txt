@@ -1,0 +1,16 @@
+Precisamos de um script/algoritmo que possuia uma interface, onde o software realize a integração de um banco de dados MYSQL, PostGreSql.
+
+Hoje temos um algoritmo desenvolvido por mim em Python, que lê arquivos de csv, excel e até mesmo direto do banco do MySql.
+
+É um conversor de produtos, os produtos que estão armazenados nos bancos arquivos csv, excel possuem diversas peculiaridades que precisam ser tratadas para que seja inserido em nosso banco de dados via API.
+
+O software/algoritmo precisa fazer as seguintes questões:
+1) Relacionamento manual de coluna
+-> Nosso BD possui colunas definidas, logo os BDs e arquivos que estaremos convertendo precisam se adequar ao nosso banco de dados.
+2) Normalizar os dados
+-> Os dados precisam estar normalizados, corrigido preço, estoque, entendendo se é por UN ou por KG, etc.
+3) Recorrência e Scheduler
+-> O algoritmo precisa fazer atualização dos produtos em nosso banco de dados de forma recorrente, atualizando preço, status de oferta, entre outros.
+
+Entre demais detalhes a combinar.
+São mais de 20 mil produtos por estabelecimento, logo é necessário o tratamento destes dados

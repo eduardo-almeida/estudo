@@ -1,0 +1,3 @@
+Olá! Espero que você seja meu parceiro nesse projeto!
+... Step 1 Eu preciso de um bot para o telegram que copie a mensagem de uma conversa e envie no chat de outra conversa dentro do próprio telegram.
+Step 2 exclua um usuário do canal após determinado período estabelecido.

@@ -1,0 +1,1 @@
+Preciso de um Bot que pegue logs em meu servidor de jogos e mostre em salas do discord: Logs de kill, raid e chat.

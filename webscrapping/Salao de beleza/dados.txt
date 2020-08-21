@@ -1,0 +1,31 @@
+Criação de Website / Ecommerce
+
+- Layout clean sem poluição visual, fácil utilização e moderno / responsivo.
+
+Informar o valor R$ total
+
+- Páginas:
+* Apresentação.
+* Cadastros de clientes.
+* Contato.
+* Apresentação de produtos.
+* Catálogo de serviços oferecidos no salão.
+* Promoções relâmpago, notificação e compartilhamento em redes sociais.
+* Agendamentos (suporte para futuro aplicativo).
+
+- Ecommerce
+* Vendas de produtos:
+Categorização, Controle de estoque, Sistema de carrinho, Sistema de cupom de desconto, Sistema de gerenciamento, frete, Meios de Pagamento e Checkout Transparente
+
+* Cursos oferecidos:
+área reservada para publicação de cursos, inscrição, reserva de vagas pagamento, download de certificados
+
+* Redes sociais e publicidade
+
+Aceito dicas e ideias...
+
+Pode utilizar qualquer linguagem o importante é estar funcional.
+
+Com Referência e portfólio.
+
+Recomendável para desenvolvedor móbile, porque futuramente será criado o apk sincronizando todas essas funcionalidades.

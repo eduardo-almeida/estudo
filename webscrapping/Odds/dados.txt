@@ -1,0 +1,21 @@
+Web Scraping
+Desenvolvimento Web | Intermediário | Publicado: 3 dias atrás | Tempo restante: 86 dias e 1 hora | Propostas: 8 | Interessados: 15
+
+Olá, gostaria de um parceiro para me ajudar nesse projeto. Sou de Fortaleza, portanto se tiver alguém daqui, ajudaria mais ainda.
+
+(Obs: local onde o dev mora não é pre-requisito.)
+
+Preciso coletar as ODDS de eventos diversos dos sites abaixo:
+
+bet365.com
+betfair.com
+betway.com
+pinnacle.com
+188bet.com
+10bet.com
+
+A ideia é a seguinte: O site coleta as odds de eventos e vai comparando com outros sites da lista acima. Será feito um calculo matemático e de acordo com as regras os dados serão exibidos no site. Pretendo vender assinaturas mensais que variam entre 127-227 reais.
+
+https://drive.google.com/file/d/1fBnWoBTLNwSSB1sz7z9Kk3GnaLg1m2gx/view?usp=sharing
+
+Duvidas podem entrar em contato comigo via whatsapp que está anexado ao doc. 
